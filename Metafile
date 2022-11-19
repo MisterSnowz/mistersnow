@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "92afe5326ec6523ad20d721023f3391e83a30ff2",
+    "edition": 1,
+    "date": 1668864903520,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundgold"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodyblue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SmileEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bluehair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smilemouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "70ae668d289d37439d50d077476c2f66d80b9fbe",
+    "edition": 2,
+    "date": 1668864903806,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundblue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodydarkorange"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SmileEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brownhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Normalmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "875868a9c692e731363cbc685f8a3cca0af63ba9",
+    "edition": 3,
+    "date": 1668864904066,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundblue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodywhite"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Doteye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Punkhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Sadmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "f92663526c553ea06c698ab3566893ba71c74741",
+    "edition": 4,
+    "date": 1668864904342,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundpnk"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodydarkred"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "CloseEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Punkhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Chickenmount"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "fb0e630230c6c0ba31b84162c3c0266ebc757ad4",
+    "edition": 5,
+    "date": 1668864904650,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundgold"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodybrown"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Doteye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Grayhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Chickenmount"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "c98defb65a652300ede83fa3c83c008c21ab2d8a",
+    "edition": 6,
+    "date": 1668864904889,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundpurple"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodysoftorange"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SmileEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bluehair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Oralmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "9c990b01cf002e050c8b71ecaa16fff80e86a6ac",
+    "edition": 7,
+    "date": 1668864905158,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundorange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodysoftgreen"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "CloseEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brownhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Oralmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "abc72fe3096ea32de5bbfd591945c8e1d84e4679",
+    "edition": 8,
+    "date": 1668864905375,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundblue"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodypink"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "SmileEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brownhair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Angrymouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "b14d827be30cb0ded6cb4595cfb914b448c33854",
+    "edition": 9,
+    "date": 1668864905564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundorange"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodyred"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "CloseEye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bluehair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Oralmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "3715055c4be5f2774b9ff98982150b051cf416e6",
+    "edition": 10,
+    "date": 1668864905750,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "backgroundpnk"
+      },
+      {
+        "trait_type": "Body",
+        "value": "bodydarkorange"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Doteye"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Bluehair"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Oralmouth"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
